@@ -1,0 +1,2 @@
+# myfirst
+perdana bikin
